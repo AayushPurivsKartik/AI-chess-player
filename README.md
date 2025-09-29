@@ -17,3 +17,4 @@ A Python-based Chess AI platform where you can play against an AI that learns ch
 - Fully interactive chessboard with standard piece images.
 
 ---
+Run Gui.py file for seeing results
