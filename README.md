@@ -1,4 +1,4 @@
-# Chess AI & ML
+# AI-chess-player
 
 A Python-based Chess AI platform where you can play against an AI that learns chess strategies from thousands of games. The project includes:
 
