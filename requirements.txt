@@ -1,0 +1,8 @@
+python-chess>=1.999
+tensorflow>=2.10
+numpy
+pandas
+tqdm
+scikit-learn
+matplotlib
+seaborn
